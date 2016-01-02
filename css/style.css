@@ -50,7 +50,7 @@ body {background: #C0504D url(../images/pattern22.png) ;color: #474747;font: 12p
 h2{font-family: Georgia, "Times New Roman", Times, serif;font-size: 24px;color: #C0504D;}
 a{color: #474747;text-decoration: none;}
 a:hover {color: #C0504D; text-decoration: none;}
-a[href^="tel:"]:before { content: "\260E";display: block;margin-right:0.5em;}
+a[href^="tel:"]:before { content: "\260E";display: block;}
 
 a.button, input.button {	cursor: pointer;	color: #ffffff;	line-height: 14px;	font-family: Arial, Helvetica, sans-serif;	font-size: 14px;	font-weight: bold;	background: #C0504D;	border:1px solid #ffffff; -webkit-border-radius: 4px;-moz-border-radius: 4px;-khtml-border-radius: 4px;border-radius: 4px;;}
 a.button {	display: inline-block;	text-decoration: none;	padding: 6px 12px 6px 12px;}
